@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cabecera{background-color:#FFFFFF;padding-left:700px;font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; color:#000000;border-radius:20px 20px 70px 20px;text-shadow: #00000 5PX 5PX 15PX; font-size: 30px}
+#barrasuperior{background-color:#A4C8FF}
+
+#titulo1{background-color:#F3F8C2}
+li{background-color:#E9AC55;display:inline;font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";front-size:20px;padding: 10px; color:#FFFFFF;text-align: center;border:#F2EDE6 10px;border-radius:20px 20px 70px 20px; font-size: 30px}
+blockquote{background-color:#B19270;border-radius:20px 20px 70px 20px}
+#horizontal{diplay:inline;margin: 2px}
+#vertical{diplay:inline;margin: 2px}
+h2{background-color:#A58352;padding-left:600px;border-radius:20px 20px 70px 20px; font-size: 40px}
+figcaption{background-color:#FDCD8A;border-radius:20px 20px 70px 20px; font-size: 27px}
+p{background-color:#FFFFFF; font-size: 25px}
+figure{background-color:#FFFFFF}
+footer{background-color:#EBB466}
+small{background-color:#E3962A}
+#cuerpo{background-color:#E8F0FF;margin-left: 240px}
+#barrasuperior ul li a:hover{background-color:#BB7818}
